@@ -1,4 +1,22 @@
-## Hi there 👋
+👋 Hi there!
+
+💻 Frontend Developer  
+🚀 Passionate about building web applications  
+
+🛠️ Skills  
+🌐 HTML  
+🎨 CSS  
+⚡ JavaScript  
+🔧 Git & GitHub  
+
+📂 Projects  
+📚 Learners Platform  
+🍽️ Sriram Hotel Website  
+🛍️ Sriram Trendy Store  
+✨ And more small projects
+
+🔗 Check my repositories to see my work  
+🎥 Project demo videos available in README
 
 <!--
 **Rohitraam777-Sri/Rohitraam777-Sri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
